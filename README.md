@@ -30,6 +30,6 @@ transgender themed ascii images (for neofetch etc)
 <details>
 <summary>example image</summary>
 
-<img src="https://raw.githubusercontent.com/lolarobins/trans-ascii-art/arch-linux/arch-trans-icon-example.png" style="height:35vh">
+<img src="https://raw.githubusercontent.com/lolarobins/trans-ascii-art/main/arch-linux/arch-trans-icon-example.png" style="height:35vh">
 
 </details>
